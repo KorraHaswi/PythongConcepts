@@ -58,6 +58,7 @@ print(x)
 print(foo())
 print(x)
 
+output
 1
 salman
 3
